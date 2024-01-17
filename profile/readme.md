@@ -1,6 +1,6 @@
 # 📤🐇 Hutch
 
-This is the former home of Hutch, now found [here](https://github.com/health-information-uo /hutch) along with other University of Nottingham Health Informatics work.
+This is the former home of Hutch, now found [here](https://github.com/health-information-uon/hutch) along with other University of Nottingham Health Informatics work.
 
 Hutch is an application that helps allow federated access to perform approved analysis within secure trusted research environments.
 
