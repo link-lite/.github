@@ -1,9 +1,9 @@
 # 📤🐇 Hutch
 
-This is the former home of Hutch, now found [here](https://github.com/hdruk/hutch) in the HDR UK GitHub organisation.
+This is the former home of Hutch, now found [here](https://github.com/health-information-uo /hutch) along with other University of Nottingham Health Informatics work.
 
-Hutch is an application that allows federated access to summary statistics of medical data at an institution.
+Hutch is an application that helps allow federated access to perform approved analysis within secure trusted research environments.
 
-It consists of a Web application (React frontend, .NET backend API, SQL DB) for users to interact with, and Python-based agents which retrieve the data summaries.
+It was developed for use as part of [HDR UK](https://github.com/hdruk)'s Cohort Discovery toolsets, and the [TRE-FX project](https://trefx.uk).
 
-It is being developed for use as part of [HDR UK](https://github.com/hdruk)'s Cohort Discovery toolsets.
+© 2024 University of Nottingham
