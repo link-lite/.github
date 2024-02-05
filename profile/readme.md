@@ -1,3 +1,5 @@
+![Hutch](https://raw.githubusercontent.com/HDRUK/hutch/main/assets/Hutch%20splash%20bg.svg)
+
 # 📤🐇 Hutch
 
 This is the former home of Hutch, now found [here](https://github.com/health-informatics-uon/hutch) along with other University of Nottingham Health Informatics work.
